@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Creo archivo.txt en master
 Otra linea mas en master
+=======
+Creo archivo pruebas2 para dar error
+otra linea mas
+>>>>>>> pruebas2
